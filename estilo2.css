@@ -1,0 +1,30 @@
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+#table2, td{
+    border: 1px solid black;
+}
+
+.td1{
+    padding: 30px 60px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+body{
+    background-color: rgb(58, 186, 211);
+}
