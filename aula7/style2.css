@@ -1,0 +1,22 @@
+.borda1{
+    width: 1800px;
+    border-style: dotted;
+    border-color: purple;
+    border-width: 10px;
+}
+
+img{
+    border-style: double;
+    border-color: pink;
+    border-width: 10px;
+    width: 500px;
+    
+}
+
+.borda3{
+    width: 1800px; 
+    border-left-style: solid;
+    border-left-color: antiquewhite;
+    border-width: 10px;
+    background-color: lightblue;
+}

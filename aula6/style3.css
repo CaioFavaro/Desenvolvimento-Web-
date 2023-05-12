@@ -1,0 +1,133 @@
+#secao1{
+    background-color: lightgreen;
+}
+
+#secao2{
+    background-color: lightblue;
+}
+
+
+.orange{
+    color: orange;
+}
+
+.purple{
+    color: purple;
+}
+
+.pink{
+    color: rgb(238, 73, 100);
+}
+
+.white{
+    background-color: white;
+}
+
+body{
+    background-color: white;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.borda{
+    border: 2px solid black;
+}
+ .blue{
+    color: blue;
+ }
+ 
+ .cheio{
+    text-align: justify;
+ }
+
+.centro{
+    text-align:center;
+}
+
+.direita{
+    text-align: right;
+}
+
+.decoration1{
+    text-decoration:line-through;
+}
+
+.decoration2{
+    text-decoration: overline;
+}
+
+.transform1{
+    text-transform:lowercase;
+}
+
+.transform2{
+    text-transform: uppercase;
+}
+
+.indent1{
+    text-indent: 50%;
+}
+
+.indent2{
+    text-indent: 70%;
+}
+div:hover{
+ 
+    background-color: brown;
+}
+
+.height{
+    line-height: 50px;
+}
+
+.fontf1{
+    font-family: 'Reem Kufi Ink', sans-serif;
+}
+
+.fontf2{
+    font-family: 'Bungee Spice', cursive;
+  
+}
+
+.fontf3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fontf4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fontf5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.style1{
+    font-style: italic;
+}
+
+.weight{
+    font-weight:700;
+}
+
+.size1{
+    font-size: 50%;
+}
+
+.size2{
+    font-size: 100%;
+}
+
+.size3{
+    font-size: 110%;
+}
+
+.size4{
+    font-size: 125%;
+}
+
+.size5{
+    font-size: 150%;
+}

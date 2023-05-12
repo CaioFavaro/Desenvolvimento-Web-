@@ -1,0 +1,36 @@
+header{
+    background-color: lightskyblue;
+    width: 100%;
+    grid-area: header;
+    border-bottom:3px solid blue;
+    border-radius: 1%;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+    
+
+  }
+
+  footer{
+    background-color: lightskyblue;
+    border-top: 3px solid blue;
+    border-radius: 1%;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+}
+
+.div1{
+    margin: 5vh;
+}

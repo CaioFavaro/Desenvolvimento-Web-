@@ -1,0 +1,53 @@
+table,td{
+    border: 1px solid black;
+}
+
+.red{
+    background-color: red;
+}
+
+.b{
+    background-color: #b30000; 
+}
+
+.c{
+    background-color: #660000;
+}
+
+.d{
+    background-color: green;
+}
+
+.e{
+    background-color: #99ff99;
+}
+
+.f{
+    background-color: #004d00;
+}
+
+.g{
+    background-color: blue;
+}
+
+.h{
+    background-color: #ccccff;
+}
+
+.i{
+    background-color: #000066;
+}
+
+body{
+    background-repeat: repeat-x;
+    background-size: 300px;
+    background-position: 40px 500px;
+    background-image: url("wwf.png"); 
+}
+
+.ifsp{
+    background-image: url("ifsp.png");
+    background-repeat: no-repeat;
+    background-position: 1600px 5px;
+    background-size: 300px;
+}

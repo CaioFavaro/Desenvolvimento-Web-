@@ -1,0 +1,70 @@
+.div0{
+    margin: 5vh;
+}
+
+img{
+    display: inline;
+    margin-right: 100px;
+    opacity: 0.5;
+
+
+}
+
+img:hover {
+    opacity: 1.0;
+  }
+
+.imgV{
+    visibility: hidden;
+}
+
+.div1 {
+    background: lightblue;
+    border-color: blue;
+    border-width: 1vh;
+    border-style: solid;
+    padding: 40px;
+    opacity: 1.0;
+  }
+  
+.div2 {
+    background: lightblue;
+    border-color: blue;
+    border-width: 1vh;
+    border-style: solid;
+    padding: 40px;
+    opacity: 0.8;
+  }
+  
+.div3{
+    background: lightblue;
+    border-color: blue;
+    border-width: 1vh;
+    border-style: solid;
+    padding: 40px;
+    opacity: 0.6;
+  }
+  
+
+.div4{
+    background: lightblue;
+    border-color: blue;
+    border-width: 1vh;
+    border-style: solid;
+    padding: 40px;
+    opacity: 0.4;
+
+}  
+
+.div5{
+    background: lightblue;
+    border-color: blue;
+    border-width: 1vh;
+    border-style: solid;
+    padding: 40px;
+    opacity: 0.2;
+}
+
+  p{ 
+    display: inline;
+  }

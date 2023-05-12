@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    background-color: lightgreen;
+    width: 100%;
+    grid-area: header;
+    border-bottom:3px solid green ;
+}
+aside{
+    grid-area: aside;
+    width: 80%;
+   
+  }
+footer{
+    background-color: lightgreen;
+    grid-area: footer;
+    border-top: 3px solid green;
+    
+    text-align: center;
+}
+
+main{
+    border-left: 3px solid green;
+    grid-area: main;
+    height: 400px;
+    width: 20%;
+}
+.pa{
+    text-indent: 40px;
+}
+.tmain{
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto 100px;
+    grid-template-areas: "header header" "aside main" "footer footer";
+  }
+
+.container2{
+    display: flex;
+    width: 100%;
+}
+
+.d1{
+    width: 100%;
+    justify-content: end;
+}
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .flex-container > div {
+    border: 2px solid black;
+    padding: 2px 60px 2px 60px;
+    margin: 10px;
+    text-align: center;
+    line-height: 25px; 
+  }
+
+.es{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 25px;
+}
+
+.roda{
+    font-family: Courier New;
+}
+
+  
+
+

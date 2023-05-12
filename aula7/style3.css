@@ -1,0 +1,29 @@
+.borda1{
+    border-style: solid;
+    border-color: black;
+    border-width: 1vw;
+    width: 80vw;
+    margin-right: 1vw;
+    background-color: white;
+
+
+}
+
+div > h2{
+    text-align: center;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.borda2{
+    border-style: solid;
+    border-color: black;
+    border-width: 1vw;
+    width: 70vw;
+    margin-right: 50vw;
+    background-color: white;
+
+
+}

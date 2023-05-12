@@ -1,0 +1,33 @@
+.verde1{
+    background-color: greenyellow;
+    font-size: 30px;
+}
+
+.verde2{
+    background-color:  green;
+    font-size: 30px;
+}
+
+.verde3{
+    background-color: rgb(4, 65, 4);
+    font-size: 30px;
+}
+
+.vermelho1{
+    background-color: rgb(218, 8, 8);
+    font-size: 30px;
+}
+
+.vermelho2{
+    background-color: rgb(220, 90, 90);
+    font-size: 30px;
+}
+
+.vermelho3{
+    background-color: rgb(129, 7, 7);
+    font-size: 30px;
+}
+
+.branco{
+    font-size: 30px;
+}

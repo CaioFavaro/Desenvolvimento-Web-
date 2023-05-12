@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+
+body{
+    background-image: url("paisagem.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Noto Sans', sans-serif; 
+    color: black;
+
+
+}
+
+body > h1{
+    color: white;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2{
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: row;
+    
+}
+
+img{
+    width:5re;
+
+    size: 1vh;
+}
+
+button{
+background: white;
+color: black;
+border-style: outset;
+border-color: black;
+height: 50px;
+width: 100px;
+font: bold15px arial,sans-serif;
+text-shadow: none;
+margin: 1vh;
+}
+
+select{
+    width: 200px;
+    height: 30px;
+}

@@ -1,0 +1,28 @@
+.borda1{
+    border-style: dotted;
+    border-color: green;
+    border-width: 10px;
+    background-color: lightgreen;
+    
+}
+
+.borda2{
+    border-style: double;
+    border-color: gray;
+    border-width: 10px;
+    background-color: lightslategray;
+}
+
+.borda3{
+    border-style: dashed;
+    border-color: red;
+    border-width: 10px;
+    background-color: lightcoral;
+}
+
+.borda4{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+    background-color: lightskyblue;
+}

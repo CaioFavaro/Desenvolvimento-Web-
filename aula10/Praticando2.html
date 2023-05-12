@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>Praticando 2</title>
+</head>
+<body>
+
+    <h1>
+        Praticando 2 - Formularios HTML
+    </h1>
+<div >
+    
+
+    <form action="/action_page.php" method="get">
+        <label for="fname">Nome:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="lname">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="cars">Escolha o carro:</label>
+
+   
+
+
+ <select name="cars" id="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+   </select>
+
+   <br>
+
+
+<p>Observações:</p>
+<label for="w3review"></label>
+
+<textarea id="w3review" name="w3review" rows="4" cols="50">
+</textarea>
+     
+
+<div class="div2">
+<p>Selecione sua linguagem de programação:</p>
+
+ <input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html"><img src="html.png" alt="bola"> HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS">
+<label for="css"><img src="css.png" alt="bola"> CSS</label><br>
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<label for="javascript"><img src="javascript.png" alt="bola"> JavaScript</label>
+</div>
+
+
+
+<p>Selecione o filme:</p>
+<input type="checkbox" id="filme1" name="filme1" value="filme">
+<label for="vehicle1"> <a href="https://www.cinemark.com.br/filme/minions-2-a-origem-de-gru"> Minions 2</a></label><br>
+<input type="checkbox" id="filme2" name="filme2" value="filme">
+<label for="vehicle2"> <a href="https://www.cinemark.com.br/filme/halloween-ends" >halloween</a></label><br>
+<input type="checkbox" id="filme3" name="filme3" value="filme">
+<label for="vehicle2"> <a href="https://www.cinemark.com.br/filme/amsterdam" >amsterdam</a></label><br>
+
+<br>
+<br>
+      
+
+      <button type="submit" value="Submit">Submit</button>
+      <button type="reset" value="Reset">Reset</button>
+    </form>
+
+
+    </div>
+    
+</body>
+</html>

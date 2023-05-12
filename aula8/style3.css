@@ -1,0 +1,31 @@
+.div0{
+    margin: 5vh;
+}
+
+.div1{
+    background: green;
+    padding: 60px;
+    margin-left: 3vh;
+}
+
+.div2{
+    background-color: green;
+    padding-left: 300px;
+    padding-bottom: 100px ;
+    margin-left: 3vh;
+}
+
+.div3{
+    background-color: green;
+    padding-left: 100px;
+    padding-bottom: 300px;
+    margin-left: 3vh;
+}
+
+p{
+    display: inline-block;
+}
+
+h1{
+    margin-bottom: 5vh;
+}

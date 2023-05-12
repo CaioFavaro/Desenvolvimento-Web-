@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Noto+Sans:wght@700&family=Oswald:wght@200&display=swap');
+
+
+button{
+    background: white;
+    color: black;
+    border-style: outset;
+    border-color: black;
+    height: 50px;
+    width: 100px;
+    font: bold15px arial,sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: none;
+    margin: 1vh;
+    justify-content: flex-start;
+    }
+
+    img{
+        size: 100vh;
+        width: 50vh;
+        background-repeat: no-repeat;
+    }
+
+    header{
+        background-color: lightskyblue;
+        width: 100%;
+        grid-area: header;
+        border-bottom:3px solid blue;
+        border-radius: 1%;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        text-align: center;
+    }
+    body{
+        
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .container1{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: stretch;
+        align-content: stretch;
+        
+
+      }
+    
+    .container2{    
+        
+    }
+
+    table, th, td {
+        border:1px solid black;
+      }
+
+    footer{
+        background-color: lightskyblue;
+        border-top: 3px solid blue;
+        border-radius: 1%;
+        text-align: center;
+        font-family: 'Mukta', sans-serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        width: 100%;
+    }
+
+    .img1{
+        float: right;
+        margin: 1vh;
+    }
+
+    .img2{
+        float: left;
+        margin: 1vh;
+    }
+
+    .line{
+        padding-left: 1vh;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic;
+        font-weight: 100;
+        font-size: medium;
+    }
+
+    .div1{
+        border-bottom-style:dotted ;
+        border-bottom-color: lightskyblue;
+        border-bottom-width: 10px;
+        
+    }

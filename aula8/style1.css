@@ -1,0 +1,23 @@
+.div1{
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom-style:dotted ;
+    border-bottom-color: lightskyblue;
+    border-bottom-width: 10px;
+    
+}
+
+.div0{
+    margin: 5vh;
+}
+
+.img1{
+    float: right;
+    margin: 1vh;
+}
+
+.img2{
+    float: left;
+    margin: 1vh;
+}
+
+

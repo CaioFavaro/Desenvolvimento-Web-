@@ -1,0 +1,21 @@
+.div0{
+    margin: 2vh;
+}
+
+.div1{
+    background: green;
+    padding: 70px;
+    margin-left: 3vh;
+    border-radius: 10%;
+}
+
+p{
+    display: inline-block;
+}
+
+.div2{
+    background: red;
+    padding: 70px;
+    margin-left: 3vh;
+    border-radius: 100%;
+}

@@ -1,0 +1,59 @@
+body{
+    background-image: url("paisagem.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.tam1{
+
+height: 11vh;
+width: 11vh;
+margin: 5px;
+
+
+}
+
+.tam2{
+
+height: 10vh;
+width: 10vh;
+margin: 5px;
+
+}
+
+.tam3{
+
+height: 9vh;
+width: 9vh;
+margin: 5px;
+
+}
+
+.tam4{
+
+height: 8vh;
+width: 8vh;
+margin: 5px;
+
+}
+
+
+
+.div2{
+    background-color: aqua;
+    border-bottom-color: white ;
+    border-top-color: white;
+    border-width: 10px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+
+.div3{
+    background-color: lightcoral;
+    border-bottom-color: white ;
+    border-top-color: white;
+    border-width: 10px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+
+}

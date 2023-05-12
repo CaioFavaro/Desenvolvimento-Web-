@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css">
+    <title>Praticando 1</title>
+</head>
+<body>
+
+    <h1>
+        Praticando 1 - Formularios HTML
+    </h1>
+
+    <form action="/action_page.php" method="get">
+        <label for="fname">Nome:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="lname">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="cars">Escolha o carro:</label>
+
+   
+
+
+   <select name="cars" id="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+   </select>
+
+   <br>
+   <br>
+
+<p>Observações:</p>
+<label for="w3review"></label>
+
+<textarea id="w3review" name="w3review" rows="4" cols="50">
+</textarea>
+      
+<p>Selecione sua linguagem de programação:</p>
+ <input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS">
+<label for="css">CSS</label><br>
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<label for="javascript">JavaScript</label>
+
+<br> <br>
+
+<p>Selecione o filme:</p>
+<input type="checkbox" id="filme1" name="filme1" value="filme">
+<label for="vehicle1"> filme 1</label><br>
+<input type="checkbox" id="filme2" name="filme2" value="filme">
+<label for="vehicle2"> filme 2</label><br>
+<input type="checkbox" id="filme3" name="filme3" value="filme">
+<label for="vehicle3"> filme 3</label>
+
+<br><br>
+      
+
+      <button type="submit" value="Submit">Submit</button>
+      <button type="reset" value="Reset">Reset</button>
+    </form>
+    
+</body>
+</html>
